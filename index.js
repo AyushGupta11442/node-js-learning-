@@ -8,4 +8,7 @@ console.log(name);
 calsum(a , b);
 
 // console.log(global);
-console.log(this);
+
+
+//  these are imidiate fucntion
+// console.log(this);
